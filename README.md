@@ -16,7 +16,7 @@ I am a professional Web Designer and Developer. I have over 2 years of experienc
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zahirulislam-iv)  
 
-![GitHub metrics](https://metrics.lecoq.io/zahirulislam-iv)  
+
 
 
 
