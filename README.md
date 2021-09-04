@@ -74,9 +74,7 @@ I am a professional Web Designer and Developer. I have over 2 years of experienc
 <!-- medium -->
 <a href="https://medium.com/@43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@43" height="30" width="40" /></a>
 <!--dribbble  -->
-<a href="https://dribbble.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="#" height="30" width="40" /></a>
-
-<!-- discord -->
+<a href="https://dribbble.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="#" height="30" width="40" /></a><!-- discord -->
 <a href="https://discord.gg/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#" height="30" width="40" /></a>
 </p>
 
