@@ -1,5 +1,6 @@
 <!-- Banner image -->
-![I am GitHub Readme Generator's creator](https://www.facebook.com/Developerzahir.me/photos/a.107143328406048/107452881708426/)
+![I am GitHub Readme Generator's creator]<img src="https://www.facebook.com/Developerzahir.me/photos/a.107143328406048/107452881708426/" alt="profile image" />
+
 <!-- about me -->
 ### Hi  👋, I am Zahirul Islam. 
 I am a professional Web Designer and Developer. I have over 2 years of experience in this platform. While working with me, you'll get a developed website design that will bring your company to the next level. 
