@@ -1,11 +1,13 @@
 <!-- Banner image -->
 <img style="display:inline-block; width:50%;" src="https://avatars.githubusercontent.com/u/82234171?v=4" alt="developer zahir image" />
 
-<!-- about me -->
+<div style="width:40%; display:inline-block;">
+  <!-- about me -->
 ### Hi  👋, I am Zahirul Islam. 
 I am a professional Web Designer and Developer. I have over 2 years of experience in this platform. While working with me, you'll get a developed website design that will bring your company to the next level. 
 
 
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Developer-zahir)](https://github.com/ryo-ma/github-profile-trophy)
 
