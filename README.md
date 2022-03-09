@@ -1,5 +1,5 @@
 <!-- Banner image -->
-<img src="https://avatars.githubusercontent.com/u/82234171?v=4" alt="developer zahir image" />
+<img style="display:inline-block; width:50%;" src="https://avatars.githubusercontent.com/u/82234171?v=4" alt="developer zahir image" />
 
 <!-- about me -->
 ### Hi  👋, I am Zahirul Islam. 
