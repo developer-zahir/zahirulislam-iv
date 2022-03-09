@@ -1,5 +1,5 @@
 <!-- Banner image -->
-<img src="https://scontent.fdac140-1.fna.fbcdn.net/v/t1.6435-9/169647413_1416257082094680_7624717541584241711_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeE1C8pt-JMaSJxqtsPctjCnUgFQL3KnmXZSAVAvcqeZdsQJhxN5HYHNgdieIqTNK_9L_SchUemk-WE4gFmrpe7Y&_nc_ohc=c7Nv2OVqnw0AX9PQocd&_nc_ht=scontent.fdac140-1.fna&oh=00_AT-a9_v-Nn_4-FVTv03DpD3tMG1hXnw2kZi7C62LNvKr3g&oe=61F3DE70" alt="developer zahir image" />
+<img src="https://avatars.githubusercontent.com/u/82234171?v=4" alt="developer zahir image" />
 
 <!-- about me -->
 ### Hi  👋, I am Zahirul Islam. 
